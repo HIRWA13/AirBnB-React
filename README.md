@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the first step towards building my first full web application: the AirBnB clone. This first step is very important because I will use what I  build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration...
+This is the first step towards building my first full web application: the AirBnB clone. This first step is very important because I will use what I  build during this project with all other following projects: HTML-tailwindcss templating, API-integration, front-end integration...
 
 ##  To run this project
 
