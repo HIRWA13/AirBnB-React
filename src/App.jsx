@@ -1,6 +1,6 @@
 import Header from './components/Header.jsx'
 import Hero from './components/Hero.jsx'
-import Card from './components/Card.jsx'
+import Cards from './components/Cards.jsx'
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
     <>
       <Header/>
       <Hero/>
-      <Card/>
+      <Cards/>
     </>
   )
 }
