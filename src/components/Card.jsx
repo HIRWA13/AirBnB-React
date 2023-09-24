@@ -1,14 +1,4 @@
 export default function Card(props) {
-    /**
-     *              img={exp.img}
-                    rating={exp.rating}
-                    reviewCount={exp.reviewCount}
-                    country={exp.country}
-                    title={exp.title}
-                    price={exp.price}
-                    openSpots={exp.openSpots}
-                    location={exp.location}
-     */
     console.log(props)
     let displayText
     if(props.item.openSpots === 0) {
