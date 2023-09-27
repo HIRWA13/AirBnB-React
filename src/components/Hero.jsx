@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <>
       <section>
-        <img src="/images/grid.svg" className="w-3/5 mx-auto mt-10" />
+        <img src="/images/grid.svg" className="w-3/5 mx-auto mt-10" alt="Hero image"/>
       </section>
       <section className="p-5">
         <div className="w-2/5">
